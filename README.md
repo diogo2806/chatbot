@@ -1,3 +1,4 @@
+
 # chatbot
 Chatbot com ChatGPT e Python
 Este projeto é um chatbot criado com o objetivo de interagir com usuários por meio de mensagens em linguagem natural. O chatbot utiliza a tecnologia ChatGPT para entender as perguntas dos usuários e fornecer respostas relevantes.
