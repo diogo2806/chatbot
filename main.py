@@ -41,7 +41,7 @@ def chat():
     conversations[conversation_id]["prompt"] += f"{message}\n"
     response = ask_openai(
         prompt=conversations[conversation_id]["prompt"], 
-        model="text-davinci-003", 
+        model="text-davinci-002", 
         max_tokens=200, 
         conversation_id=conversation_id
     )
